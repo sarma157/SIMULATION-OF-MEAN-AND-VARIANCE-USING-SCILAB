@@ -38,15 +38,3 @@ To write a program for mean, variance and cross correlation in SCILAB and verify
 
 ## RESULT:
 Thus the mean , variance and cross correlation are executed in Scilab and output is verified.
-
-
-
-
-
-
-
-
-
-
-RESULT:
-Thus the mean , variance and cross correlation are executed in Scilab and output is verified.
