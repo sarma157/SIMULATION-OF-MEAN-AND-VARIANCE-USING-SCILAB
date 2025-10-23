@@ -55,7 +55,7 @@ endfunction
 a=0;
 b=1;
 
-EX2=intg(a,b,c);
+EX2=intg(a,b,g);
 function Y=h(y)
     z=3*(1-y)^3;
     Y=y^2*z;
@@ -77,6 +77,8 @@ n1=max(size(y))-1;
 n2=max(size(x))-1;
 r=corr(x,y,n1);
 plot2d3('gnn',r);
+
+
 ```
 
 
