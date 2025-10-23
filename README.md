@@ -81,16 +81,21 @@ plot2d3('gnn',r);
 
 
 ## CALCULATION
+![WhatsApp Image 2025-10-23 at 23 06 46_040cc851](https://github.com/user-attachments/assets/fe68dbfe-aad0-4d0b-85f7-52260be0ab96)
+![WhatsApp Image 2025-10-23 at 23 06 46_db2f7e6c](https://github.com/user-attachments/assets/b260c9c1-95ff-4cf3-a1a2-354ca7028c1f)
+![WhatsApp Image 2025-10-23 at 23 16 48_9a45a3e9](https://github.com/user-attachments/assets/59965295-23f7-4a0e-bb23-45b1cfc06be0)
+![WhatsApp Image 2025-10-23 at 23 16 48_f34b8d46](https://github.com/user-attachments/assets/600c39cc-648d-4d20-9ac0-30847dead6aa)
 
-![WhatsApp Image 2025-10-18 at 13 13 42_0eec18b0](https://github.com/user-attachments/assets/c9bd63a7-bbbf-4ee4-951b-20d54ef6dde3)
-![WhatsApp Image 2025-10-18 at 13 13 42_2b6fdfc6](https://github.com/user-attachments/assets/9f441196-0f01-474a-a6e0-dcc1554f33b9)
-![WhatsApp Image 2025-10-18 at 13 13 41_7a1f751a](https://github.com/user-attachments/assets/c6966459-b724-4c4b-9316-2218cd752844)
+
+
 
 ## OUTPUT
 
-<img width="605" height="368" alt="image" src="https://github.com/user-attachments/assets/f1ecb60b-1e21-48e7-b15f-8320faccde67" />
+<img width="812" height="410" alt="image" src="https://github.com/user-attachments/assets/1df62304-daf9-4fe1-ade4-cd879f9d1a1b" />
 
-<img width="758" height="718" alt="image" src="https://github.com/user-attachments/assets/705dfa6c-9f2e-4669-97e4-5d9078cff740" />
+
+<img width="758" height="721" alt="image" src="https://github.com/user-attachments/assets/1cb1ea40-6ab2-47aa-a9de-94ec111f2bc7" />
+
 
 ## RESULT:
 Thus the mean , variance and cross correlation are executed in Scilab and output is verified.
