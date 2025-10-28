@@ -28,7 +28,7 @@ To write a program for mean, variance and cross correlation in SCILAB and verify
 ```
 //Mean
 function X=f(x)
-    z=3*(1-x)^3;
+    z=3*(1-x)^2;
     X=x*z;
 endfunction
 
@@ -37,7 +37,7 @@ b=1;
 
 EX=intg(a,b,f);
 function Y=c(y)
-    z=3*(1-y)^3;
+    z=3*(1-y)^2;
     Y=y*z;
 endfunction
 
@@ -48,7 +48,7 @@ disp("ii) Mean of Y =",EY)
 //Variance
 
 function X=g(x)
-    z=3*(1-x)^3;
+    z=3*(1-x)^2;
     X=x^2*z;
 endfunction
 
@@ -57,7 +57,7 @@ b=1;
 
 EX2=intg(a,b,g);
 function Y=h(y)
-    z=3*(1-y)^3;
+    z=3*(1-y)^2;
     Y=y^2*z;
 endfunction
 
@@ -83,20 +83,23 @@ plot2d3('gnn',r);
 
 
 ## CALCULATION
-![WhatsApp Image 2025-10-23 at 23 06 46_040cc851](https://github.com/user-attachments/assets/fe68dbfe-aad0-4d0b-85f7-52260be0ab96)
-![WhatsApp Image 2025-10-23 at 23 06 46_db2f7e6c](https://github.com/user-attachments/assets/b260c9c1-95ff-4cf3-a1a2-354ca7028c1f)
-![WhatsApp Image 2025-10-23 at 23 16 48_9a45a3e9](https://github.com/user-attachments/assets/59965295-23f7-4a0e-bb23-45b1cfc06be0)
-![WhatsApp Image 2025-10-23 at 23 16 48_f34b8d46](https://github.com/user-attachments/assets/600c39cc-648d-4d20-9ac0-30847dead6aa)
+![Simulation of mean and variance page 1](https://github.com/user-attachments/assets/adb3d867-3d9c-4cf9-9557-0fc38b2e1726)
+
+![Simulation of mean and variance page 2](https://github.com/user-attachments/assets/d0281544-754c-440b-ba6d-a75ceaa94a85)
+
+
 
 
 
 
 ## OUTPUT
 
-<img width="812" height="410" alt="image" src="https://github.com/user-attachments/assets/1df62304-daf9-4fe1-ade4-cd879f9d1a1b" />
+<img width="1918" height="1138" alt="Mean variance output waveform" src="https://github.com/user-attachments/assets/fefa94e3-3150-42d5-b770-fef006e06095" />
 
 
-<img width="758" height="721" alt="image" src="https://github.com/user-attachments/assets/1cb1ea40-6ab2-47aa-a9de-94ec111f2bc7" />
+
+<img width="507" height="421" alt="mEAN" src="https://github.com/user-attachments/assets/f56e7ed6-4004-4903-a82d-a710a1d97c0f" />
+
 
 
 ## RESULT:
