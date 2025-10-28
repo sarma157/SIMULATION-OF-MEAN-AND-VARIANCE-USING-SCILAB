@@ -83,9 +83,12 @@ plot2d3('gnn',r);
 
 
 ## CALCULATION
-![Simulation of mean and variance page 1](https://github.com/user-attachments/assets/adb3d867-3d9c-4cf9-9557-0fc38b2e1726)
+![WhatsApp Image 2025-10-28 at 10 36 04_8d04eaf9](https://github.com/user-attachments/assets/11324c08-4874-4a62-93f9-d268f1ca073e)
 
-![Simulation of mean and variance page 2](https://github.com/user-attachments/assets/d0281544-754c-440b-ba6d-a75ceaa94a85)
+![WhatsApp Image 2025-10-28 at 10 36 09_bca24faf](https://github.com/user-attachments/assets/a2c07986-9148-4b22-ba23-35cfcf878674)
+
+![WhatsApp Image 2025-10-28 at 10 36 15_85057623](https://github.com/user-attachments/assets/21d73f47-390a-4298-a02e-dee870a643b1)
+
 
 
 
@@ -98,7 +101,7 @@ plot2d3('gnn',r);
 
 
 
-<img width="507" height="421" alt="mEAN" src="https://github.com/user-attachments/assets/f56e7ed6-4004-4903-a82d-a710a1d97c0f" />
+<img width="766" height="720" alt="mean and variance sce op pic" src="https://github.com/user-attachments/assets/333ca54a-247c-4a49-81cf-85366583338c" />
 
 
 
