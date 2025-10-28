@@ -97,8 +97,6 @@ plot2d3('gnn',r);
 
 ## OUTPUT
 
-<img width="1918" height="1138" alt="Mean variance output waveform" src="https://github.com/user-attachments/assets/fefa94e3-3150-42d5-b770-fef006e06095" />
-
 
 
 <img width="766" height="720" alt="mean and variance sce op pic" src="https://github.com/user-attachments/assets/333ca54a-247c-4a49-81cf-85366583338c" />
