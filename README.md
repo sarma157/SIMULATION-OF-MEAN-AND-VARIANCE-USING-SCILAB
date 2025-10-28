@@ -28,7 +28,7 @@ To write a program for mean, variance and cross correlation in SCILAB and verify
 ```
 //Mean
 function X=f(x)
-    z=3*(1-x)^2;
+    z=3*(1-x)^3;
     X=x*z;
 endfunction
 
@@ -37,7 +37,7 @@ b=1;
 
 EX=intg(a,b,f);
 function Y=c(y)
-    z=3*(1-y)^2;
+    z=3*(1-y)^3;
     Y=y*z;
 endfunction
 
@@ -48,7 +48,7 @@ disp("ii) Mean of Y =",EY)
 //Variance
 
 function X=g(x)
-    z=3*(1-x)^2;
+    z=3*(1-x)^3;
     X=x^2*z;
 endfunction
 
@@ -57,14 +57,14 @@ b=1;
 
 EX2=intg(a,b,g);
 function Y=h(y)
-    z=3*(1-y)^2;
+    z=3*(1-y)^3;
     Y=y^2*z;
 endfunction
 
 EY2=intg(a,b,h);
 
-vX2=EX2-(EX)^2;
-vY2=EY2-(EY)^2;
+vX2=EX2-(EX)^3;
+vY2=EY2-(EY)^3;
 
 disp("iii) Variance of X",vX2);
 disp("iv) Variance of Y",vY2);
