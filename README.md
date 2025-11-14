@@ -83,11 +83,11 @@ plot2d3('gnn',r);
 
 
 ## CALCULATION
-![WhatsApp Image 2025-10-28 at 10 36 04_8d04eaf9](https://github.com/user-attachments/assets/11324c08-4874-4a62-93f9-d268f1ca073e)
+![WhatsApp Image 2025-11-13 at 12 52 29_24b94578](https://github.com/user-attachments/assets/ed9df925-9bee-41d7-9499-74145e5a2502)
 
-![WhatsApp Image 2025-10-28 at 10 36 09_bca24faf](https://github.com/user-attachments/assets/a2c07986-9148-4b22-ba23-35cfcf878674)
+![WhatsApp Image 2025-11-13 at 12 52 29_83eb49a3](https://github.com/user-attachments/assets/548ec317-41b0-413f-8d4f-2eb5a93e4ae0)
 
-![WhatsApp Image 2025-10-28 at 10 36 15_85057623](https://github.com/user-attachments/assets/21d73f47-390a-4298-a02e-dee870a643b1)
+![WhatsApp Image 2025-11-13 at 12 52 29_baf43c1d](https://github.com/user-attachments/assets/4fc4507d-93f6-473b-ae5d-9b21027948a1)
 
 
 
